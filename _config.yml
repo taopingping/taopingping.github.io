@@ -1,5 +1,5 @@
 title: "Hello World"
-theme: jekyll-theme-cayman
+remote_theme: iwiedenm/jekyll-theme-massively-src
 defaults:
   -
     scope:
