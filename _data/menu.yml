@@ -1,7 +1,5 @@
 menu:
-- title: Introduction
-  url: introduction.html
-- title: Configuration
-  url: configuration.html
-- title: Deployment
-  url: deployment.html
+- title: home
+  url: /
+- title: About me
+  url: /about
