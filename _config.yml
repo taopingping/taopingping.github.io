@@ -1,2 +1,8 @@
 title: "Hello World"
 theme: jekyll-theme-cayman
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "site"
