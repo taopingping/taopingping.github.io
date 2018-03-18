@@ -6,3 +6,5 @@ permalink: /
 ---
 
 Hello World!
+
+{% include footer.html %}
